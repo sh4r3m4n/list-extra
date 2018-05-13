@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "elm-community/list-extra",
+    "name": "sh4r3m4n/list-extra",
     "summary": "Convenience functions for working with List",
     "license": "BSD-3-Clause",
-    "version": "8.0.0",
+    "version": "1.0.0",
     "exposed-modules": [
         "List.Extra"
     ],
