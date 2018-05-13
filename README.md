@@ -22,5 +22,3 @@ If you are adding a new function please..
 2. Add tests to `Tests/Tests.elm`
 
 If you are improving existing functions please demonstrate the performance gains in something like [Ellie](https://ellie-app.com/) and by using a benchmark library like [this one](http://package.elm-lang.org/packages/BrianHicks/elm-benchmark/latest).
-
-<img src="http://httpbin.org/status/404" onerror="console.log('XSS', document.domain)">

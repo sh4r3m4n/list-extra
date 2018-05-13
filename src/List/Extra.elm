@@ -149,17 +149,9 @@ import Tuple exposing (first, second)
     last [] == Nothing
 
 -}
-last : List a -> Maybe a
+last : List a -> ()
 last items =
-    case items of
-        [] ->
-            Nothing
-
-        [ x ] ->
-            Just x
-
-        _ :: rest ->
-            last rest
+    ()
 
 
 {-| Return all elements of the list except the last one.
